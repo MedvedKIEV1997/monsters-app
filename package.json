@@ -2,7 +2,7 @@
   "name": "1st_project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://medvedkiev1997.github.io",
+  "homepage": "https://medvedkiev1997.github.io/monsters-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
